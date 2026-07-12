@@ -8,12 +8,10 @@
 - プラポリ: https://rananculus.github.io/sakamichi-dash-legal/privacy.html
 - 利用規約: https://rananculus.github.io/sakamichi-dash-legal/terms.html
 
-## 公開前に必ず編集
+## 事業者情報
 
-`privacy.html` / `terms.html` 内の次を実情報に置き換えてください。
-
-- `◯◯ ◯◯`（事業者名）
-- `your-email@example.com`（連絡先メール）
+- 事業者名: rananculus（個人事業主）
+- メール: support@rananculus.com
 
 ## ローカル確認
 
