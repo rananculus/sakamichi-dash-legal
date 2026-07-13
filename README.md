@@ -1,6 +1,6 @@
 # sakamichi-dash-legal
 
-「坂道ダッシュ」のプライバシーポリシー / 利用規約（GitHub Pages 用）。
+「坂道ダッシュ SprintTracker」のプライバシーポリシー / 利用規約（GitHub Pages 用）。
 
 ## 公開 URL（想定）
 
@@ -8,10 +8,10 @@
 - プラポリ: https://rananculus.github.io/sakamichi-dash-legal/privacy.html
 - 利用規約: https://rananculus.github.io/sakamichi-dash-legal/terms.html
 
-## 事業者情報
+## 運営者情報
 
-- 事業者名: rananculus（個人事業主）
-- メール: support@rananculus.com
+- 運営者: rananculus
+- お問い合わせ: https://forms.gle/gWes9iDwVhTYRsMq9
 
 ## ローカル確認
 
