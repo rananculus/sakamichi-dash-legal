@@ -1,23 +1,6 @@
 # sakamichi-dash-legal
 
-rananculus 提供アプリ向けのプライバシーポリシー / 利用規約（GitHub Pages 用）。
+旧 URL 用です。中身は `https://rananculus.github.io/` へ飛ばすだけです。文面はあちらで直します。
 
-特定アプリ名に依存しない汎用文言です。坂道ダッシュ（SprintTracker）・スイムレップ（SwimRepTracker）・トモメなど、App Store で配信する各アプリから同一 URL を参照できます。iCloud 同期や相手との共有があるアプリも、同じポリシーでカバーします。
-
-## 公開 URL
-
-- トップ: https://rananculus.github.io/sakamichi-dash-legal/
-- プラポリ: https://rananculus.github.io/sakamichi-dash-legal/privacy.html
-- 利用規約: https://rananculus.github.io/sakamichi-dash-legal/terms.html
-
-## 運営者情報
-
-- 運営者: rananculus
-- お問い合わせ: https://forms.gle/gWes9iDwVhTYRsMq9
-
-## ローカル確認
-
-```bash
-cd /Users/AN6001/Cursor/sakamichi-dash-legal
-open index.html
-```
+- https://rananculus.github.io/sakamichi-dash-legal/privacy.html → https://rananculus.github.io/privacy.html
+- https://rananculus.github.io/sakamichi-dash-legal/terms.html → https://rananculus.github.io/terms.html
